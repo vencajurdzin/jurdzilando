@@ -6,12 +6,12 @@ Jurdzilando is a simple React + TypeScript application that displays products us
 
 ## Features
 
-- Responsive product grid listing
-- Product detail view with image and description
 - Data fetching with React Query (TanStack Query)
-- Notistack for error handling
+- Notistack for showing errors
 - UI components and styling using MUI with `sx` prop
 - Routing with React Router
+- Responsive product grid listing
+- Product detail view with image and description
 
 ## Installation and start
 
