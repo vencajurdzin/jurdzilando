@@ -6,3 +6,4 @@ export const cardMedia = {
   borderRadius: '4px',
   mb: 2,
 };
+

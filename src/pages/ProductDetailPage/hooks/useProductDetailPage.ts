@@ -1,5 +1,5 @@
 import { useParams } from 'react-router-dom';
-import { useProductDetail } from '../../api/products';
+import { useProductDetail } from '../../../api/products';
 import { useSnackbar } from 'notistack';
 import { useEffect } from 'react';
 
@@ -19,3 +19,4 @@ export const useProductDetailPage = () => {
     isLoading,
   };
 };
+
